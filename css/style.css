@@ -1,0 +1,21 @@
+.button-design
+{
+    width: 100%;
+}
+.fond
+{
+    background:linear-gradient(#ffffaa , #ffff00);
+}
+
+.color-red
+{
+    color: #ff0000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    box-shadow: 1px 10px 10px #000000;
+}
+
+textarea
+{
+    height: 100%;
+}
